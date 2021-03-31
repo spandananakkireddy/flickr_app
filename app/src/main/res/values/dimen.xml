@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edittext_margin_start">16dp</dimen>
+    <dimen name="edittext_margin_top">8dp</dimen>
+    <dimen name="viewpager_margin_top">16dp</dimen>
+    <dimen name="button_margin_top">8dp</dimen>
+    <dimen name="button_margin_end">16dp</dimen>
+    <dimen name="viewpager_padding_left">80dp</dimen>
+    <dimen name="viewpager_padding_right">80dp</dimen>
+    <dimen name="imageview_width">300dp</dimen>
+    <dimen name="imageview_height">300dp</dimen>
+    <dimen name="textview_margin_top">8dp</dimen>
+    <dimen name="textview_margin_bottom">16dp</dimen>
+    <dimen name="textview_size">18dp</dimen>
+    <dimen name="imageview_margin_top">32dp</dimen>
+</resources>
